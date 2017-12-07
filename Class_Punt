@@ -1,0 +1,7 @@
+require 'text.txt'
+
+
+def txt_reader
+
+
+end
